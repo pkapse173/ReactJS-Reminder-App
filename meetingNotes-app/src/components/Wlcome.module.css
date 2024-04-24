@@ -1,0 +1,23 @@
+.welcome-container {
+    background-image: linear-gradient(to right, #348f50, #56b4d3);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .welcome-message {
+    text-align: center;
+    color: white;
+    padding: 20px;
+  }
+  
+  .welcome-message h1 {
+    font-size: 2.5em;
+    margin-bottom: 10px;
+  }
+  
+  .welcome-message p {
+    font-size: 1.2em;
+  }
+  
